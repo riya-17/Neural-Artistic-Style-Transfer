@@ -13,39 +13,21 @@ Install the dependencies listed in `requirements.txt`
 
  ` pip install -r requirements.txt `
 
-If you already have numpy at the latest version installed globaly on your machine you need to either downgrade it to a version compatible with `Tensorflow` or (preferred) you can create a virtual environment
+If you already have numpy at the latest version installed globaly on your machine you need to either downgrade it to a version compatible with `Tensorflow` or (preferred) you can create a virtual environment.
+
 
 ### Versions that I have used
 
 * numpy       1.14.3+mkl
 * tensorflow  1.11.0
 * scipy       1.1.0
-* Pillow      5.1.0
+* Pillow      5.1.0`
 
-### Using a virtual environment
-
-Virtualenv can be installed with pip
-
-` pip install virtualenv `
-
-Then create a virtualenv on this repo's root directory
-```
-mkdir .env
-virtualenv .env
-```
-
-Start it
-` source .env/bin/activate `
-
-Install the dependencies
-` pip install -r requirements.txt `
-
-Exit the virtualenv with
-` deactivate `
 
 ### Run command
 
 ` python Neural.py `
+
 
 ## Outputs
 
