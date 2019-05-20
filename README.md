@@ -48,7 +48,7 @@ If you already have numpy at the latest version installed globaly on your machin
 ![Output](https://user-images.githubusercontent.com/25060937/43782850-e5636a90-9a7d-11e8-8c77-d6210f93fd31.png)
 
 ## Pre-trained Imagenet model using Very-Deep Convolutional Neural Network
-you can find the model on the following site with name [imagenet-vgg-verydeep-19](http://www.vlfeat.org/matconvnet/pretrained/) 
+you can find the model on the following Google Drive [imagenet-vgg-verydeep-19](https://drive.google.com/open?id=1Mgv6hCbHmaZ-bydwBZzHEWA_agUfDI5k) 
 
 ## Resources
 * [Paper: A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576v2.pdf)
