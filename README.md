@@ -15,6 +15,13 @@ Install the dependencies listed in `requirements.txt`
 
 If you already have numpy at the latest version installed globaly on your machine you need to either downgrade it to a version compatible with `Tensorflow` or (preferred) you can create a virtual environment
 
+### Versions that I have used
+
+* numpy       1.14.3+mkl
+* tensorflow  1.11.0
+* scipy       1.1.0
+* Pillow      5.1.0
+
 ### Using a virtual environment
 
 Virtualenv can be installed with pip
@@ -36,7 +43,7 @@ Install the dependencies
 Exit the virtualenv with
 ` deactivate `
 
-### Run with the help of following command
+### Run command
 
 ` python Neural.py `
 
