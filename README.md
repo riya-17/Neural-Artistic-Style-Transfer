@@ -36,6 +36,10 @@ Install the dependencies
 Exit the virtualenv with
 ` deactivate `
 
+### Run with the help of following command
+
+` python Neural.py `
+
 ## Outputs
 
 ### Style Image :
